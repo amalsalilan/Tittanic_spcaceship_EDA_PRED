@@ -1,4 +1,6 @@
 # Tittanic_spcaceship_EDA_PRED
+![gitimg](https://user-images.githubusercontent.com/85513416/193398373-369c124a-82f2-4e36-a1ce-791da9996b6c.png)
+
 
 The dataset I obtained from Kaggle titanic spaceship.tis about predicting whether passengers survived or died. I utilised some of the key classification models and the score around
 0 	fit_time 	score_time 	test_score
